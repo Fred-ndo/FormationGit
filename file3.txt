@@ -1,2 +1,3 @@
 Fichier 3
 mod 3
+mod stash
